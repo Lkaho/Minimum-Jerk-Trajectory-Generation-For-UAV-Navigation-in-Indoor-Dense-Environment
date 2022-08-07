@@ -10,6 +10,6 @@ In this project, we proposed an efficient and low computation cost online motion
 
 ## 2. Simulation Result
 
-![min_jerk1](/home/kaho/Workspaces/traj_opt/src/min_jerk1.gif)
+![min_jerk1](https://github.com/Lkaho/Minimum-Jerk-Trajectory-Generation-For-UAV-Navigation-in-Indoor-Dense-Environment/blob/main/min_jerk1.gif)
 
-![min_jerk2](/home/kaho/Workspaces/traj_opt/src/min_jerk2.gif)
+![min_jerk2](https://github.com/Lkaho/Minimum-Jerk-Trajectory-Generation-For-UAV-Navigation-in-Indoor-Dense-Environment/blob/main/min_jerk2.gif)
